@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Data analysis**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Deep Learning**
 
 - 💬 Ask me about **python**
 
